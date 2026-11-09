@@ -1,6 +1,6 @@
 [project]
 name = "weather_by2419"
-version = "0.1.0"
+version = "0.1.1"
 description = "QMSS Class Project"
 readme = "README.md"
 authors = [{ name = "Bo Yuan", email = "by2419@columbia.edu" }]
